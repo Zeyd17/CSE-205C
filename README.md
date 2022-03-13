@@ -1,2 +1,3 @@
 # CSE-205C
-Class programs
+Class PROGRAMS 
+Lab Assignments
